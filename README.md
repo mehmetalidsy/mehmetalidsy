@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently learning
 
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_mehmetal) 
 
@@ -25,3 +24,4 @@ I'm currently learning
 [![](https://visitcount.itsvg.in/api?id=mehmetalidsy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://hit.yhype.me/github/profile?account_id=153413232)
