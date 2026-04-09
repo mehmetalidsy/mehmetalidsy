@@ -33,3 +33,5 @@ Yazılım mimarileri ve kullanıcı deneyimi üzerine odaklanmış, Full-Stack b
 
 ### 🏆 GitHub Trophies
 [![]
+
+![](https://hit.yhype.me/github/profile?account_id=153413232)
