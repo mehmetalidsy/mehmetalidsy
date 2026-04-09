@@ -37,8 +37,6 @@ Karmaşık problemleri temiz ve çalışır kodlara dönüştürmekten keyif ala
 **Hedefim:**  
 Haftada minimum 15-20 saat kod yazmak, yemek-tarifi-native’i Supabase backend’li, TypeScript’li, production seviyesine taşımak ve gerçek kullanıcılara açmak.
 
-Rust + Sui Move öğrenirken küçük CLI tool’lar ve toy smart contract’lar üreteceğim.
-
 ---
 
 ⭐ Bu profile bakıyorsan ve bir şey sormak istersen çekinme, DM atabilirsin.
