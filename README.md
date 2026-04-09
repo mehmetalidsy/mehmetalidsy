@@ -13,7 +13,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,docker,ubuntu,solidity,python,go,cs,git,vscode,figma&perline=20" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,docker,linux,ubuntu,solidity,python,go,cs,git,vscode,figma&perline=20" />
   </a>
 </p>
 
@@ -28,14 +28,6 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
     </td>
     <td align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=tokyonight&hide=html,css" height="195em" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehmetalidsy&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyo-night&area=true&hide_border=true" height="195em" />
     </td>
   </tr>
 </table>
