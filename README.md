@@ -1,9 +1,5 @@
 # Selam! Ben Mehmet Ali 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetalidsy&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ### 🚀 Hakkımda
 Merhaba, ben Mehmet Ali.  
 Karmaşık problemleri temiz, çalışır ve ölçeklenebilir kodlara dönüştürmekten keyif alan bir geliştiriciyim.
@@ -51,7 +47,6 @@ Eğer bir şey sormak veya işbirliği yapmak istersen DM atabilirsin.
 
 **2026 Hedeflerim:**
 - Haftada minimum 15 saat kod yazmak (WakaTime ile takip ediyorum)
-- yemek-tarifi-native’i TypeScript + Supabase backend’li, production-ready hale getirmek
 
 ⭐ Bu profile bakıyorsan hoş geldin. Gerçek değer üretmek için çalışıyorum.
 
