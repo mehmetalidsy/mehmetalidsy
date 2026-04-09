@@ -1,10 +1,5 @@
 # Selam! Ben Mehmet Ali 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Learning-Go%20%26%20Web3-00ADD8?style=for-the-badge&logo=go" />
-</p>
-
 ### 🚀 Hakkımda
 Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Şu an enerjimin büyük kısmını modern mobil deneyimler ve backend mimarileri üzerine harcıyorum.
 
@@ -14,11 +9,11 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Teknoloji Yığınım
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,supabase,go,cs,git,vscode,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,docker,ubuntu,solidity,python,go,cs,git,vscode,figma&perline=20" />
   </a>
 </p>
 
