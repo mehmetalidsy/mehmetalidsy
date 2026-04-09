@@ -13,7 +13,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,docker,linux,ubuntu,solidity,python,go,cs,git,vscode,figma&perline=20" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,docker,linux,solidity,php,laravel,wordpress,python,go,cs,git,vscode,figma&perline=30" />
   </a>
 </p>
 
