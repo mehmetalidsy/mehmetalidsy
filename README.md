@@ -37,7 +37,6 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 ### 🏆 Öne Çıkan Projeler
 
 * **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** — React Native, TypeScript ve NativeWind kullanılarak geliştirilen kapsamlı bir mobil uygulama.
-* **[web3-baslangic](https://github.com/mehmetalidsy/web3-baslangic)** — Blockchain ve akıllı kontrat dünyasına giriş çalışmalarım.
 
 ---
 
