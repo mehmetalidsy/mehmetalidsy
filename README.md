@@ -25,7 +25,6 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmetalidsy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="195em" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=tokyonight" height="195em" />
-   <img src="https://trophygh.kolioaris.xyz/?username=mehmetalidsy" height="195em" />
 </p>
 
 ---
