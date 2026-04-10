@@ -6,6 +6,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 - 📱 **Mobile:** React Native & Expo ekosisteminde derinleşiyorum.
 - 🏗️ **Backend:** Supabase ve Go ile performanslı sistemler kurguluyorum.
 - 🧪 **Deneysel:** Web3 ve düşük seviyeli dillerle (C#) projeler geliştiriyorum.
+- 🐧 Environment: Geliştirme süreçlerimi Linux (Ubuntu) ve WSL 2 üzerinde optimize ediyorum.
 
 ---
 
