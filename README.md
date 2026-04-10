@@ -32,6 +32,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 ### 🏆 Öne Çıkan Projeler
 
 * **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** — React Native, TypeScript ve NativeWind kullanılarak geliştirilen kapsamlı bir mobil uygulama.
+* **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** — Go kullanılarak geliştirilen paket yöneticisi uygulaması.
 
 ---
 
