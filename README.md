@@ -48,7 +48,6 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 | :---- |  :---: | :---: | :--- |
 | **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | Go | **Sıfır** | Go ile yazılmış yüksek performanslı paket yöneticisi. |
 | **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** | RN & TS | Düşük | NativeWind ile optimize edilmiş mobil yemek asistanı. |
-| **[niyet-et-sarj-ol](https://github.com/mehmetalidsy/niyet-et-sarj-ol)** | Python | Düşük | Laptop şarja takıldığında ve çıkarıldığında sesli bildirim veren eğlenceli bir Python scripti. |
 </div>
 
 ---
