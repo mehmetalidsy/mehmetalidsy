@@ -10,6 +10,7 @@
   </p>
 
 </div>
+
 ### 🚀 Hakkımda
 Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Şu an enerjimin büyük kısmını modern mobil deneyimler ve backend mimarileri üzerine harcıyorum.
 
