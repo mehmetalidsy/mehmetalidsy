@@ -1,5 +1,15 @@
-# Selam! Ben Mehmet Ali 👋
+<div align="center">
 
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,8,1,4&height=180&section=header&text=Mehmet%20Ali%20Durusoy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20&descAlignY=55&descSize=18" width="100%" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mehmetalidsy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/mehmetalidsy?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/mehmetalidsy?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Stars" />
+  </p>
+
+</div>
 ### 🚀 Hakkımda
 Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Şu an enerjimin büyük kısmını modern mobil deneyimler ve backend mimarileri üzerine harcıyorum.
 
