@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,8,1,4&height=180&section=header&text=Mehmet%20Ali%20Durusoy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20&descAlignY=55&descSize=18" width="100%" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e1e&height=120&section=header&text=Mehmet%20Ali%20Durusoy&fontSize=50&fontColor=ffffff" width="100%" />
+</p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mehmetalidsy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
@@ -32,10 +34,9 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 ---
 
 ### 📊 GitHub İstatistiklerim
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmetalidsy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="195em" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=tokyonight" height="195em" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmetalidsy&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" height="195em" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d" height="195em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyonight&area=true&hide_border=true" height="195em" />
 </p>
 
