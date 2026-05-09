@@ -34,11 +34,20 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 ---
 
 ### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmetalidsy&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" height="195em" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d" height="195em" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyonight&area=true&hide_border=true" height="195em" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmetalidsy&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" height="195em"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d" height="195em" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyonight&area=true&hide_border=true" height="195em" />
+    </td>
+  </tr>
+</table>
 
 ---
 
