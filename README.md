@@ -77,10 +77,9 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 ---
 
 ### ⚡ Hızlı Bilgiler
-- 🔭 Şu anda **Go tabanlı microservices** üzerinde çalışıyorum.
-- 📚 **Rust** öğrenerek sistem programlama ufkumu genişletiyorum.
-- 💬 Bana **Go, React Native veya Linux optimizasyonu** hakkında her şeyi sorabilirsin.
-- 🎯 2026 Hedefim: Haftalık **15+ saat** kod kalitesi ve süreklilik.
+- **2026 Hedefim**: Haftalık **15+ saat** kod kalitesi ve süreklilik.
+- **Disiplin:** Haftalık düzenli commit ve teknik makale okuma rutini.
+- **Vizyon:** Global standartlarda, temiz ve sürdürülebilir kod üretmek.
 
 ---
 
