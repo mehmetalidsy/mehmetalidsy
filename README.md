@@ -5,6 +5,13 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e1e&height=120&section=header&text=Mehmet%20Ali%20Durusoy&fontSize=50&fontColor=ffffff" width="100%" />
 </p>
 
+  <!-- GitHub Trophies -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=mehmetalidsy&theme=darkhub&no-frame=true&column=7" alt="mehmetalidsy trophies" />
+    </a>
+  </p>
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mehmetalidsy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/mehmetalidsy?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
@@ -13,27 +20,19 @@
 
 </div>
 
-### 🚀 Hakkımda
-Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Şu an enerjimin büyük kısmını modern mobil deneyimler ve backend mimarileri üzerine harcıyorum.
+---
 
-- 📱 **Mobile:** React Native & Expo ekosisteminde derinleşiyorum.
-- 🏗️ **Backend:** Supabase ve Go ile performanslı sistemler kurguluyorum.
-- 🧪 **Deneysel:** Web3 ve düşük seviyeli dillerle (C#) projeler geliştiriyorum.
-- 🐧 **Environment**: Geliştirme süreçlerimi Linux (Ubuntu) ve WSL 2 üzerinde optimize ediyorum.
+### 🚀 Hakkımda & Mühendislik Vizyonum
+Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Go ile sistem, React Native ile mobil dünyası arasında köprü kuruyorum.
+
+- 📱 **Mobile:** React Native & Expo (Performance & Architecture).
+- 🏗️ **Backend:** Go, Supabase & PostgreSQL (Scalable Systems).
+- 🐧 **Env:** Arch/Ubuntu on WSL2 (My Daily Driver).
+- ⚙️ **Focus:** Zero-dependency tools & high performance CLI applications.
 
 ---
 
-### 🛠️ Teknoloji Yığınım
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,dotnet,firebase,supabase,mysql,docker,arduino,linux,ubuntu,solidity,php,laravel,wordpress,python,go,cs,postman,git,vscode,visualstudio,figma,windows&perline=10" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
+### 📊 Yazılım Mutfağım (Canlı İstatistikler)
 
 <table align="center">
   <tr>
@@ -43,34 +42,55 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
     <td align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d" height="195em" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyonight&area=true&hide_border=true" height="195em" />
+      <!-- Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidsy&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&stroke=ffffff" height="180em" />
+    </td>
+    <td align="center">
+      <!-- Coding Hours (Wakatime - Eğer hesabın varsa linkini buraya ekleyebilirsin) -->
+      <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=mehmetalidsy&theme=transparent&title_color=ffffff&text_color=9f9f9f&layout=compact" height="180em" />
     </td>
   </tr>
 </table>
 
 ---
 
+### 🛠️ Teknoloji Yığınım
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,supabase,postgres,docker,dotnet,solidity,linux,git,postman,figma,vscode,cs,py,mysql,arduino,html,css&perline=10" />
+  </a>
+</p>
+
+---
+
 ### 🏆 Öne Çıkan Projeler
-<div align="center">
 
-| Proje | Teknoloji | Bağımlılık | Açıklama |
-| :---- |  :---: | :---: | :--- |
-| **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | Go | **Sıfır** | Go ile yazılmış yüksek performanslı paket yöneticisi. |
-| **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** | RN & TS | Düşük | NativeWind ile optimize edilmiş mobil yemek asistanı. |
-</div>
+| Proje | Statü | Teknoloji | Açıklama |
+| :--- | :---: | :---: | :--- |
+| **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **Go** | Bağımsız, yüksek hızlı paket yöneticisi. |
+| **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** | `Active` | **RN & TS** | Modern mobil yemek asistanı deneyimi. |
 
 ---
 
-### 🎯 2026 Vizyonu
-- **Üretim:** Haftalık minimum 15 saat aktif kod geliştirme.
+### ⚡ Hızlı Bilgiler
+- 🔭 Şu anda **Go tabanlı microservices** üzerinde çalışıyorum.
+- 📚 **Rust** öğrenerek sistem programlama ufkumu genişletiyorum.
+- 💬 Bana **Go, React Native veya Linux optimizasyonu** hakkında her şeyi sorabilirsin.
+- 🎯 2026 Hedefim: Haftalık **15+ saat** kod kalitesi ve süreklilik.
 
 ---
 
-### 🌐 İletişim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetalid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_mehmetal)
+### 🌐 Sosyal Medya & İletişim
 
-> **"Gerçek değer üretmek için çalışıyorum."**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetalid" height="30" width="40" /></a>
+  <a href="https://twitter.com/_mehmetal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="_mehmetal" height="30" width="40" /></a>
+</p>
 
-![](https://hit.yhype.me/github/profile?account_id=153413232)
+<p align="center">
+  <img src="https://hit.yhype.me/github/profile?account_id=153413232" />
+</p>
