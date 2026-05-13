@@ -40,22 +40,19 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
       <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmetalidsy&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" height="195em"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d" height="195em" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d&hide=html,css" height="195em" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- Streak Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidsy&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&stroke=ffffff" height="180em" />
     </td>
     <td align="center">
-      <!-- Coding Hours (Wakatime - Eğer hesabın varsa linkini buraya ekleyebilirsin) -->
       <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=mehmetalidsy&theme=transparent&title_color=ffffff&text_color=9f9f9f&layout=compact" height="180em" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <!-- Streak Stats -->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyonight&area=true&hide_border=true" height="180em" />
     </td>
   </tr>
