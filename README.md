@@ -53,6 +53,12 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
       <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=mehmetalidsy&theme=transparent&title_color=ffffff&text_color=9f9f9f&layout=compact" height="180em" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Streak Stats -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=tokyonight&area=true&hide_border=true" height="180em" />
+    </td>
+  </tr>
 </table>
 
 ---
