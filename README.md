@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Animated Banner -->
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e1e&height=120&section=header&text=Mehmet%20Ali%20Durusoy&fontSize=50&fontColor=ffffff" width="100%" />
-</p>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e1e&height=120&section=header&text=Mehmet%20Ali%20Durusoy&fontSize=50&fontColor=ffffff" width="100%" />
+  </p>
 
-  <!-- GitHub Trophies -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=mehmetalidsy&theme=darkhub&no-frame=true&column=7" alt="mehmetalidsy trophies" />
@@ -23,12 +21,12 @@
 ---
 
 ### 🚀 Hakkımda & Mühendislik Vizyonum
-Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Go ile sistem, React Native ile mobil dünyası arasında köprü kuruyorum.
+Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Go ile sistem ve terminal mimarileri, React Native ile mobil dünyası arasında köprü kuruyorum.
 
 - 📱 **Mobile:** React Native & Expo (Performance & Architecture).
-- 🏗️ **Backend:** Go, Supabase & PostgreSQL (Scalable Systems).
+- 🏗️ **Backend & Systems:** Go, Supabase, PostgreSQL & TUI Engines.
 - 🐧 **Env:** Arch/Ubuntu on WSL2 (My Daily Driver).
-- ⚙️ **Focus:** Zero-dependency tools & high performance CLI applications.
+- ⚙️ **Focus:** Zero-dependency tools & high performance CLI/TUI applications.
 
 ---
 
@@ -74,6 +72,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 | Proje | Statü | Teknoloji | Açıklama |
 | :--- | :---: | :---: | :--- |
+| **[mad-md](https://github.com/mehmetalidsy/mad-md)** | `Active` | **Go** | Terminal konforundan ayrılmadan dökümantasyon okumayı sağlayan şık bir TUI Markdown okuyucu. |
 | **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **Go** | Bağımsız, yüksek hızlı paket yöneticisi. |
 | **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** | `Active` | **RN & TS** | Modern mobil yemek asistanı deneyimi. |
 
@@ -81,7 +80,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 ### ⚡ Hızlı Bilgiler
 - **2026 Hedefim**: Haftalık **15+ saat** kod kalitesi ve süreklilik.
-- **Disiplin:** Haftalık düzenli commit ve teknik makale okuma rutini.
+- **Disiplin:** Haftalık düzenli commit, TUI araçları geliştirme ve teknik makale okuma rutini.
 - **Vizyon:** Global standartlarda, temiz ve sürdürülebilir kod üretmek.
 
 ---
