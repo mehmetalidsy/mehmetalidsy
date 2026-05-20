@@ -62,7 +62,8 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,supabase,postgres,docker,dotnet,solidity,linux,git,postman,figma,vscode,cs,py,mysql,arduino,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,go,cs,solidity,php,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,dotnet,supabase,postgres,mysql,docker,git,github,postman,figma,arduino,vscode&perline=12" />
   </a>
 </p>
 
