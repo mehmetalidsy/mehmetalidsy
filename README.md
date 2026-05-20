@@ -50,12 +50,19 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
     </td>
   </tr>
   <tr>
+    <td  align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetalidsy&theme=transparent&title_color=ffffff&bg_color=0d1117&color=58a6ff" height="180em" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetalidsy&theme=transparent&title_color=ffffff&bg_color=0d1117&color=58a6ff" height="180em" />
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" height="180em" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🛠️ Teknoloji Yığınım
