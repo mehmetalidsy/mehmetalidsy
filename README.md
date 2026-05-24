@@ -24,7 +24,7 @@
 Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Go ile sistem ve terminal mimarileri, React Native ile mobil dünyası arasında köprü kuruyorum.
 
 - 📱 **Mobile:** React Native & Expo (Performance & Architecture).
-- 🏗️ **Backend & Systems:** Go, Supabase, PostgreSQL & TUI Engines.
+- 🏗️ **Backend & Systems:** Go, Supabase, PostgreSQL & TUI Engines (Bubble Tea).
 - 🐧 **Env:** Arch/Ubuntu on WSL2 (My Daily Driver).
 - ⚙️ **Focus:** Zero-dependency tools & high performance CLI/TUI applications.
 
@@ -46,23 +46,16 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidsy&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&stroke=ffffff" height="180em" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=mehmetalidsy&theme=transparent&title_color=ffffff&text_color=9f9f9f&layout=compact" height="180em" />
-    </td>
-  </tr>
-  <tr>
-    <td  align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetalidsy&theme=transparent&title_color=ffffff&bg_color=0d1117&color=58a6ff" height="180em" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetalidsy&theme=transparent&title_color=ffffff&bg_color=0d1117&color=58a6ff" height="180em" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" height="180em" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" height="180em" />
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ Teknoloji Yığınım
@@ -70,6 +63,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,go,cs,solidity,php,py&perline=12" />
+    <br>
     <img src="https://skillicons.dev/icons?i=ubuntu,dotnet,supabase,postgres,mysql,docker,git,github,postman,figma,arduino,vscode&perline=12" />
   </a>
 </p>
@@ -80,7 +74,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 | Proje | Statü | Teknoloji | Açıklama |
 | :--- | :---: | :---: | :--- |
-| **[colormark](https://github.com/mehmetalidsy/colormark)** | `Active` | **TS** | Terminal konforundan ayrılmadan dökümantasyon okumayı sağlayan şık bir TUI Markdown okuyucu. |
+| **[colormark](https://github.com/mehmetalidsy/colormark)** | `Active` | **GO** | Go ve Bubble Tea ile yazılmış, terminal konforundan ayrılmadan dökümantasyon okumayı sağlayan yüksek performanslı TUI Markdown okuyucu. |
 | **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **GO** | Bağımsız, yüksek hızlı paket yöneticisi. |
 
 ---
