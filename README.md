@@ -80,9 +80,8 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 | Proje | Statü | Teknoloji | Açıklama |
 | :--- | :---: | :---: | :--- |
-| **[mad-md](https://github.com/mehmetalidsy/mad-md)** | `Active` | **Go** | Terminal konforundan ayrılmadan dökümantasyon okumayı sağlayan şık bir TUI Markdown okuyucu. |
-| **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **Go** | Bağımsız, yüksek hızlı paket yöneticisi. |
-| **[yemek-tarifi-native](https://github.com/mehmetalidsy/yemek-tarifi-native)** | `Active` | **RN & TS** | Modern mobil yemek asistanı deneyimi. |
+| **[colormark](https://github.com/mehmetalidsy/colormark)** | `Active` | **TS** | Terminal konforundan ayrılmadan dökümantasyon okumayı sağlayan şık bir TUI Markdown okuyucu. |
+| **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **GO** | Bağımsız, yüksek hızlı paket yöneticisi. |
 
 ---
 
