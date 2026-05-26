@@ -5,12 +5,6 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mehmetalidsy&theme=darkhub&no-frame=true&column=7" alt="mehmetalidsy trophies" />
-    </a>
-  </p>
-
-  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mehmetalidsy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/mehmetalidsy?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
     <img src="https://img.shields.io/github/stars/mehmetalidsy?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Stars" />
