@@ -19,7 +19,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 - 📱 **Mobile:** React Native & Expo (Performance & Architecture).
 - 🏗️ **Backend & Systems:** Go, Supabase, PostgreSQL & TUI Engines (Bubble Tea).
-- 🐧 **Env:** Arch/Ubuntu on WSL2 (My Daily Driver).
+- 🐧 **Env:** Ubuntu on WSL2 (My Daily Driver).
 - ⚙️ **Focus:** Zero-dependency tools & high performance CLI/TUI applications.
 
 ---
