@@ -36,14 +36,6 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidsy&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&stroke=ffffff" height="180em" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetalidsy&theme=transparent&title_color=ffffff&bg_color=0d1117&color=58a6ff" height="180em" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" height="180em" />
     </td>
