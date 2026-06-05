@@ -18,7 +18,7 @@
 Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Go ile sistem ve terminal mimarileri, React Native ile mobil dünyası arasında köprü kuruyorum.
 
 - 📱 **Mobile:** React Native & Expo (Performance & Architecture).
-- 🏗️ **Backend & Systems:** Go, Supabase, PostgreSQL & TUI Engines (Bubble Tea).
+- 🏗️ **Backend & Systems:** Go, .NET, Supabase, PostgreSQL & TUI Engines (Bubble Tea).
 - 🐧 **Env:** Ubuntu on WSL2 (My Daily Driver).
 - ⚙️ **Focus:** Zero-dependency tools & high performance CLI/TUI applications.
 
