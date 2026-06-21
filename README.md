@@ -84,7 +84,10 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
    <a href="https://keybase.io/mehmetalidsy" target="_blank">
-    <img src="https://img.shields.io/badge/Keybase-0077B5?style=for-the-badge&logo=keybase&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Keybase-0077B5?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase" />
+  </a>
+   <a href="https://profile.codersrank.io/user/mehmetalidsy" target="_blank">
+    <img src="https://img.shields.io/badge/Codersrank-0077B5?style=for-the-badge&logo=codersrank&logoColor=white" alt="Codersrank" />
   </a>
 </div>
 
