@@ -78,7 +78,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 <div align="center">
   <a href="https://twitter.com/mehmetalidsy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/mehmetalidsy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -88,6 +88,9 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
   </a>
    <a href="https://profile.codersrank.io/user/mehmetalidsy" target="_blank">
     <img src="https://img.shields.io/badge/Codersrank-0077B5?style=for-the-badge&logo=codersrank&logoColor=white" alt="Codersrank" />
+  </a>
+  <a href="https://www.producthunt.com/@mehmetalidsy" target="_blank">
+    <img src="https://img.shields.io/badge/Producthunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Codersrank" />
   </a>
 </div>
 
