@@ -87,7 +87,10 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
     <img src="https://img.shields.io/badge/Keybase-0077B5?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase" />
   </a>
   <a href="https://www.producthunt.com/@mehmetalidsy" target="_blank">
-    <img src="https://img.shields.io/badge/Producthunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Codersrank" />
+    <img src="https://img.shields.io/badge/Producthunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Producthunt" />
+  </a>
+  <a rel="me" href="https://mastodon.social/@mehmetalidsy">
+    <img src="https://img.shields.io/badge/Mastodon-48359C?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
   </a>
 </div>
 
