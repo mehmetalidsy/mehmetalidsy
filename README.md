@@ -87,6 +87,10 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
   <a rel="me" href="https://mastodon.social/@mehmetalidsy">
     <img src="https://img.shields.io/badge/Mastodon-48359C?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
   </a>
+  <br/>
+  <a href="https://solopreneur.lol/u/mehmetalidsy">
+    <img src="https://solopreneur.lol/badge/u/mehmetalidsy.svg" alt="Solopreneur founder badge" height="22">
+  </a>
 </div>
 
 <p align="center">
