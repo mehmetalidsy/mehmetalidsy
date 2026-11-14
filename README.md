@@ -7,24 +7,25 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mehmetalidsy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/mehmetalidsy?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/mehmetalidsy?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/mehmetalidsy?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Total stars" />
   </p>
 
 </div>
 
 ---
 
-### 🚀 Hakkımda & Mühendislik Vizyonum
-Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüştürmeye odaklanmış bir geliştiriciyim. Go ile sistem ve terminal mimarileri, React Native ile mobil dünyası arasında köprü kuruyorum.
+### 🚀 About Me & Engineering Vision
+
+I'm a developer focused on turning complex problems into clean, performant, and scalable code. I bridge the gap between system-level and terminal-based architectures with Go and the mobile ecosystem with React Native.
 
 - 📱 **Mobile:** React Native & Expo (Performance & Architecture).
 - 🏗️ **Backend & Systems:** Go, .NET, Supabase, PostgreSQL & TUI Engines (Bubble Tea).
-- 🐧 **Env:** Ubuntu on WSL2 (My Daily Driver).
-- ⚙️ **Focus:** Zero-dependency tools & high performance CLI/TUI applications.
+- 🐧 **Environment:** Ubuntu on WSL2 (My Daily Driver).
+- ⚙️ **Focus:** Zero-dependency tools and high-performance CLI/TUI applications.
 
 ---
 
-### 📊 Yazılım Mutfağım (Canlı İstatistikler)
+### 📊 My Development Insights (Live Statistics)
 
 <table align="center">
   <tr>
@@ -39,7 +40,7 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 ---
 
-### 🛠️ Teknoloji Yığınım
+### 🛠️ Technology Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,23 +52,24 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 
 ---
 
-### 🏆 Öne Çıkan Projeler
+### 🏆 Featured Projects
 
-| Proje | Statü | Teknoloji | Açıklama |
+| Project | Status | Technology | Description |
 | :--- | :---: | :---: | :--- |
-| **[colormark](https://github.com/mehmetalidsy/colormark)** | `Active` | **GO** | Go ve Bubble Tea ile yazılmış, terminal konforundan ayrılmadan dökümantasyon okumayı sağlayan yüksek performanslı TUI Markdown okuyucu. |
-| **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **GO** | Bağımsız, yüksek hızlı paket yöneticisi. |
+| **[colormark](https://github.com/mehmetalidsy/colormark)** | `Active` | **GO** | A high-performance TUI Markdown reader built with Go and Bubble Tea, allowing users to read documentation without leaving the comfort of their terminal. |
+| **[madget-cli](https://github.com/mehmetalidsy/madget-cli)** | `Stable` | **GO** | An independent, high-speed package manager. |
 
 ---
 
-### ⚡ Hızlı Bilgiler
-- **2026 Hedefim**: Haftalık **15+ saat** kod kalitesi ve süreklilik.
-- **Disiplin:** Haftalık düzenli commit, TUI araçları geliştirme ve teknik makale okuma rutini.
-- **Vizyon:** Global standartlarda, temiz ve sürdürülebilir kod üretmek.
+### ⚡ Quick Facts
+
+- **2026 Goal:** 15+ hours per week dedicated to code quality and consistency.
+- **Discipline:** Regular weekly commits, building TUI tools, and maintaining a technical reading habit.
+- **Vision:** Building clean, sustainable software that meets global engineering standards.
 
 ---
 
-### 🌐 Sosyal Medya & İletişim
+### 🌐 Social Media & Contact
 
 > **"Everything is an object, and I’m just programming the reality."**
 
@@ -78,11 +80,11 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
   <a href="https://www.linkedin.com/in/mehmetalidsy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="https://keybase.io/mehmetalidsy" target="_blank">
+  <a href="https://keybase.io/mehmetalidsy" target="_blank">
     <img src="https://img.shields.io/badge/Keybase-0077B5?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase" />
   </a>
   <a href="https://www.producthunt.com/@mehmetalidsy" target="_blank">
-    <img src="https://img.shields.io/badge/Producthunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Producthunt" />
+    <img src="https://img.shields.io/badge/Producthunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" />
   </a>
   <a rel="me" href="https://mastodon.social/@mehmetalidsy">
     <img src="https://img.shields.io/badge/Mastodon-48359C?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
@@ -96,3 +98,5 @@ Karmaşık problemleri temiz, performanslı ve ölçeklenebilir kodlara dönüş
 <p align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=153413232" />
 </p>
+
+***
