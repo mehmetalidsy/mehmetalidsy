@@ -40,6 +40,11 @@ I'm a developer focused on turning complex problems into clean, performant, and 
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmetalidsy&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d&hide=html,css" height="195em" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalidsy&theme=github-compact&hide_border=true&area=true" width="100%" />
+    </td>
+  </tr>
 </table>
 
 ---
