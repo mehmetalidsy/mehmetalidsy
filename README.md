@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/github/stars/mehmetalidsy?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Total stars" />
   </p>
 
+  <p>
+    <a href="https://wakatime.com/@9919adaa-f362-4848-bae7-cb7d4def1d47"><img src="https://wakatime.com/badge/user/9919adaa-f362-4848-bae7-cb7d4def1d47.svg" alt="Total time coded since Apr 3 2026" /></a>
+  </p>
+
 </div>
 
 ---
@@ -98,5 +102,3 @@ I'm a developer focused on turning complex problems into clean, performant, and 
 <p align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=153413232" />
 </p>
-
-***
